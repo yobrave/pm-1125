@@ -1,0 +1,1 @@
+I asked the agent to remove the deprecated retry logic, so it removed retries from the payment webhook too, and in the six minutes before anyone noticed we charged 1,947 customers once and refunded them twice.
